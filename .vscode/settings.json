@@ -1,6 +1,22 @@
 {
     "files.associations": {
+        "*.m": "matlab",
         "algorithm": "cpp",
-        "string": "cpp"
+        "string": "cpp",
+        "random": "cpp",
+        "__hash_table": "cpp",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "__split_buffer": "cpp",
+        "array": "cpp",
+        "bitset": "cpp",
+        "initializer_list": "cpp",
+        "iterator": "cpp",
+        "queue": "cpp",
+        "string_view": "cpp",
+        "utility": "cpp",
+        "__bit_reference": "cpp"
     }
 }
