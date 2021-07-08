@@ -17,6 +17,7 @@
         "queue": "cpp",
         "string_view": "cpp",
         "utility": "cpp",
-        "__bit_reference": "cpp"
+        "__bit_reference": "cpp",
+        "ios": "cpp"
     }
 }
