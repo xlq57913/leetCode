@@ -19,6 +19,8 @@
         "utility": "cpp",
         "__bit_reference": "cpp",
         "ios": "cpp",
-        "iosfwd": "cpp"
+        "iosfwd": "cpp",
+        "__locale": "cpp",
+        "functional": "cpp"
     }
 }
